@@ -53,7 +53,7 @@ int main()
   t2.Ajouter(4.4);
   t2.Affichage();
   t3.Ajouter("Ridouane");
-  t3.Ajouter("Innayatou");
+  t3.Ajouter("Alazi");
   t3.Affichage();
   return 0;
 }
